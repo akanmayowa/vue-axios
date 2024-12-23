@@ -1,7 +1,6 @@
 # vue3-axios
 
 Composition API & Vue component helpers for making API requests and rendering the results in vue 3
-Still needs to be packaged properly as an npm package / library
 
 ## summary
 
